@@ -92,10 +92,3 @@ O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
 
 > Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array com um separador utilize o join.
 
-
-## Desafios Módulo 02
-
-> 1º exercício
-Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
-vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
-aparecer na tela
